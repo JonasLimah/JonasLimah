@@ -43,4 +43,8 @@
 
   
 </div>
- 
+
+
+
+![](https://github.com/JonasLimah/snk/raw/output/github-contribution-grid-snake.svg)
+
