@@ -39,12 +39,11 @@
 <div align="Left ">
 
 
-   ![Snake animation](https://github.com/JonasLimah/JonasLimah/blob/output/github-contribution-grid-snake.svg)
-
+  ![](https://github.com/JonasLimah/snk/raw/output/github-contribution-grid-snake.svg)
   
 </div>
 
 
 
-![](https://github.com/JonasLimah/snk/raw/output/github-contribution-grid-snake.svg)
+
 
