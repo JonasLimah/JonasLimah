@@ -36,7 +36,7 @@
   <a href="mailto:jonaslimahpessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
+<div align="Left ">
 
 
    ![Snake animation](https://github.com/JonasLimah/JonasLimah/blob/output/github-contribution-grid-snake.svg)
